@@ -1,0 +1,44 @@
+Module – 9 ReactJs
+
+(1)	 What is React Js?
+
+	   React.js is an open-source JavaScript library. It is used for building user interfaces. It is efficient, and flexible. React makes it easy to create interactive UIs by using a component-based approach. It is used to create a single page application. It is fast. It is used for handling view layer for web and mobile apps. React was created by Jordan Walke, a software engineer at Facebook. React was first deployed on Facebook's newsfeed in 2011 and on Instagram.com in 2012. Code :npx create-react-app App-Name
+
+(2)	What is NPM in React Js?
+	Npm is Node Package Manager. 
+     It is a package manager in Javascript. It is the default       package manager for the javascript runtime environment Node.js. It is a manages the package and for installing Node.js packages in the project. It is used to create a Node Module and a package.Json file for the project and primarily for managing dependencies and packages for Node.js-based projects, although it can also be used for managing front-end JavaScript libraries and tools.
+
+  (3) What is Role of Node Js in react Js? 
+	Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. It is used to execute JavaScript code on the server side. As reactjs is build in Js Language so to run it is necessary to have Node.js installed in the system. It is used to create a server and to run the react application.
+
+   (4)  What is CLI command In React Js?
+	create a new project in react. It is used to create a new component in the project. It is used to create a new file in the project. It is used to run the project. It is used to build the project. It is used to deploy the project. It is used to get the necessary packages and dependencies for the project. It is used to install the necessary packages and dependencies for the project. It is used to uninstall the unnecessary packages and dependencies for the project.
+(5)  What is Components in React Js?
+	A component is a reusable piece of code that is responsible for rendering a part of the UI. It is a collection of JavaScript functions and HTML tags. It is used to create a new component in the project. It is used to create a new file in the project. It is used to run the project. It is used to build the project. It is used to deploy the project. It is used to get the necessary packages and dependencies for the project. It is used to install the necessary packages and dependencies for the project. It is used to uninstall the unnecessary packages and dependencies for the project.
+
+(6)  What is Header and Content Components in React Js?
+	A header is a section at the top of a page that displays site name and navigation
+
+(7) How to install React Js on Windows, linux Operating       System?
+	Step 1: Install Node.js
+	Step 2: Install Create-React-App
+	Step 3: Create a New React App
+	Step 4: Run the React App
+	Step 5: Install NPM
+	Step 6: Check the version of NPM
+
+
+(7-1) How to check version of React Js?
+	Step 1: Open the terminal
+Step 2: Go to the project directory
+Step 3: Run the command npm view react version
+
+(8)  HOW TO CHANGE IN COMPONENTS OF REACT JS?
+	In React, to change components, we can use the following methods:
+State
+import { useState } from 'React'
+const [state, setState] = useState("")
+Where State is a variable and setState is a function to change the state
+Where useState("") is use to intialize the state value
+
+
